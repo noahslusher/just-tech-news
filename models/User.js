@@ -60,7 +60,7 @@ User.init(
    return updatedUserData;
  }
   },
-  // TABLE CONFIGURATIONS OPTIONS
+  // TABLE CONFIGURATIONS OPTIONS 
 
   // imported sequelize connection
   sequelize,
